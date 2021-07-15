@@ -7,6 +7,9 @@
 ## ✨Latest Updates✨
 
 > Sistema de suscripción VIP por invitaciones.
->
-> Please check out the latest list of updates, improvements, and fixes to be made in Version 5 in the Discussions section or by clicking [here]
-Repositorio de Venuz Bot en Discord y Telegram.
+> Sistema de invitaciones
+> Página web
+
+## ✨Announce✨
+
+-Este proyecto pertenece al grupo *CRAZYBEAST* Administrado por Venuz#1670 - CEO
