@@ -12,4 +12,4 @@
 
 ## ✨Announce✨
 
--Este proyecto pertenece al grupo *CRAZYBEAST* Administrado por Venuz#1670 - CEO
+- Este proyecto pertenece al grupo *CRAZYBEAST* Administrado por Venuz#1670 - CEO
