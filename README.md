@@ -53,14 +53,13 @@
 - Subiré el resto en los distintos gits de este.
 
 
-# Discord Giveaways
+# Juan Dev
 
-[![discordBadge](https://img.shields.io/badge/Chat-Click%20here-7289d9?style=for-the-badge&logo=discord)](https://discord.gg/r5mb9r5WXv)
-[![downloadsBadge](https://img.shields.io/npm/dt/discord-giveaways?style=for-the-badge)](https://npmjs.com/discord-giveaways)
-[![versionBadge](https://img.shields.io/npm/v/discord-giveaways?style=for-the-badge)](https://npmjs.com/discord-giveaways)
-[![documentationBadge](https://img.shields.io/badge/Documentation-Click%20here-blue?style=for-the-badge)](https://discord-giveaways.js.org)
+[![discordBadge](https://img.shields.io/badge/Chat-Click%20here-7289d9?style=for-the-badge&logo=discord)](https://discord.gg/Ahk7Fm9Hbk)
+[![versionBadge](https://img.shields.io/npm/v/discord-giveaways?style=for-the-badge)](https://discord.gg/Ahk7Fm9Hbk)
+[![documentationBadge](https://img.shields.io/badge/Documentation-Click%20here-blue?style=for-the-badge)](https://discord.gg/Ahk7Fm9Hbk)
 
-Discord Giveaways is a powerful [Node.js](https://nodejs.org) module that allows you to easily create giveaways!
+Vulco Bot is a power [Node.js](https://nodejs.org) module that allows you to easily create interaction in you server!
 
 ## Features
 
