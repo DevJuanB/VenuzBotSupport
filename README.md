@@ -1,8 +1,8 @@
-# VenuzBotSupport
+# DoggoBotSupport
 <h1 align="center"><img src="https://cdn.discordapp.com/attachments/737775780226007112/862019248406396938/Icon_Venuz_1.0.png" width="30px"> Venuz Bot <img src="https://cdn.discordapp.com/attachments/737775780226007112/862019248406396938/Icon_Venuz_1.0.png" width="30px"></h1>
 <p align="center">Gracias por la ayuda!</p>
 
-- Repositorio de Venuz bot en Discord y Telegram.
+- Repositorio de DOGGO bot en Discord y Telegram.
 
 ## ✨Latest Updates✨
 
@@ -59,7 +59,7 @@
 [![versionBadge](https://img.shields.io/npm/v/discord-giveaways?style=for-the-badge)](https://discord.gg/Ahk7Fm9Hbk)
 [![documentationBadge](https://img.shields.io/badge/Documentation-Click%20here-blue?style=for-the-badge)](https://discord.gg/Ahk7Fm9Hbk)
 
-Vulco Bot is a power [Node.js](https://nodejs.org) module that allows you to easily create interaction in you server!
+Doggo Bot is a power [Node.js](https://nodejs.org) module that allows you to easily create interaction in you server!
 
 ## Features
 
